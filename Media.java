@@ -26,7 +26,6 @@ public class Media {
                 suma += numeros[x];
                 
             }
-                
                 media  = suma/m;
                 System.out.println("La suma es: " + suma);
                 System.out.print("La media de los numeros pares es: " + media);
